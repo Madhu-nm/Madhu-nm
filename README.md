@@ -1,7 +1,7 @@
 ## Hi there , It's me Madhu mathi.S
 
 FULL-STACK DEVELOPER TRAINEE @ CREDO SYSTEMZ
-<img align="right" width="350" height="350" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">                                                
+<img align="right" width="250" height="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">                                                
 - 🌱 I’m currently learning React JS and JAVA
 - 👯 I’m looking to work as frontend developer
 - 📫 How to reach me :
