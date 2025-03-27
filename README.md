@@ -2,8 +2,8 @@
 
 FULL-STACK DEVELOPER TRAINEE @ CREDO SYSTEMZ
 <img align="right" width="250" height="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">                                                
-- 🌱 I’m currently learning React JS and JAVA
-- 👯 I’m looking to work as frontend developer
+- 🌱 I’m currently learning React JS and JAVA FULLSTACK DEVELOPMENT
+- 👯 I’m looking to work as JAVA developer
 - 📫 How to reach me :
 <br />  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-mathi-s-58528726a)
 
