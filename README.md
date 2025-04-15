@@ -7,7 +7,7 @@ FULL-STACK DEVELOPER TRAINEE @ CREDO SYSTEMZ
 - 📫 How to reach me :
 <br />
 <br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-mathi-s-58528726a)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-mathi-s-58528726a)
 
 
 ### I code in
